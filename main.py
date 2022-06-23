@@ -1,3 +1,11 @@
+# =====================
+# UNIT CIRCLE SIMULATOR
+# =====================
+# Author: ctrl-empress
+# Date: June 23, 2022
+# Version: 1.0
+# ====================
+
 import math
 
 import pygame as pg
