@@ -3,7 +3,7 @@
 # =====================
 # Author: ctrl-empress
 # Date: June 23, 2022
-# Version: 1.0
+# Version: 1.0.0
 # ====================
 
 import math
@@ -382,7 +382,7 @@ class UnitCircle:
         lbl_third_quad = self.fonts['quadrants'].render('III', True, Color.RED)
         lbl_fourth_quad = self.fonts['quadrants'].render('IV', True, Color.RED)
 
-        lbl_ver = self.fonts['label'].render(f'v {self.VERSION}', True, Color.BLACK)
+        lbl_ver = self.fonts['label'].render(f'v{self.VERSION}', True, Color.BLACK)
         lbl_auth = self.fonts['label'].render(f'by {self.AUTHOR}', True, Color.BLACK)
 
         # =======================
