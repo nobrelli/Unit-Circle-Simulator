@@ -1,7 +1,23 @@
+
 # Unit Circle Simulator
-A simulation of a unit circle using an SDL binding for Python called `pygame`. It has a snap mode nad radians/degrees mode. You can resize the circle by using the `left` and `right` arrow keys.
+
+A simulation of a unit circle using an SDL binding for Python called `pygame`.
 
 
+## Features
+
+- Snap mode
+- Radians/degrees mode
+
+
+## Installation
+
+I used Python version `3.10.5` and pygame `2.1.2`
+
+```
+  pip install -r requirements.txt
+```
+    
+## Demo
 
 https://user-images.githubusercontent.com/44640489/177919049-cf2702e3-dfc0-47de-a422-b7a0566386ad.mp4
-
