@@ -8,6 +8,7 @@ A simulation of a unit circle using an SDL binding for Python called `pygame`.
 
 - Snap mode
 - Radians/degrees mode
+- `[LEFT]` and `[RIGHT]` arrow keys to resize the circle
 
 
 ## Installation
